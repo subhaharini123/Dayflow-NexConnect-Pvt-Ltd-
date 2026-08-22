@@ -1,0 +1,6 @@
+{
+  "name": "NexConnect HRMS",
+  "description": "NexConnect Human Resource Management System for employee administration, attendance tracking, leave management, and salary breakdown.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
