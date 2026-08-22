@@ -1,0 +1,6 @@
+{
+  "name": "Dayflow - Human Resource Management System",
+  "description": "Every workday, perfectly aligned. Modern HRMS auth and attendance tracking with auto-generated employee Login IDs, password security rules, daily & weekly views, and admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
